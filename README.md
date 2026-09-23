@@ -4,3 +4,4 @@ AI data
 kim sung jun
 Homework
 python hello.py click
+new commit
